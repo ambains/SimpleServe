@@ -8,5 +8,14 @@ I started by generating a package.json file on my local machine. Then,opened the
 
 Now to install the required dependencies for my project, I used "npm install express", a popular framework in Node.js to build web applications and APIs, along with "body-parser" and "mysql". Please refer to file labeled package.json.
 
-The script for the server - please refer to file labeled index.json. 
+The script for the server - please refer to file- index.json. The server connection to MYSQL database was sucessfully and is listening to requests on port 3000. 
+
+The API was tested using Postman, please refer to screenshots 1, 2, 3 for the test of the following queries:
+
+
+The test of get, post and fetch a single book were successful. 
+
+Goal of the project- Built a basic HTTP server using Node.js that connects sucessfully to a MYSQL database in MYSQL workbench and listens/responds to the outlined queries in the API. 
+
+The next steps are to build a HTTP server to support the database schema of a patient information system data model, which is more complex than the data model of this project. 
 

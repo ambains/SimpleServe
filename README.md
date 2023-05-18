@@ -17,5 +17,4 @@ The test of get, post and fetch a single book were successful.
 
 Goal of the project- Built a basic HTTP server using Node.js that connects sucessfully to a MYSQL database in MYSQL workbench and listens/responds to the outlined queries in the API. 
 
-The next steps are to build a HTTP server to support the database schema of a patient information system data model, which is more complex than the data model of this project. 
 
